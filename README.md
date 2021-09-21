@@ -10,7 +10,7 @@ Por ahora mientras actualizo el bot  y en [youtube](https://www.youtube.com/chan
 
 ## Objetivos:
 - [ ] Agregar mega Evoluciones de los pokemons (Por ahora gen 6 max)
-- [ ] Tener el bot listo y dejarlo listo para que todos lo puedan usar
+- [ ] Tener el bot listo y dejarlo terminado para que todos lo puedan usar
 
 #### Este proyecto usa:
 
