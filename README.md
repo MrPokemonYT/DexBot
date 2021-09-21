@@ -1,4 +1,4 @@
-# SuperBot
+# DexBot
 Bot de Pokemon que he creado hace mas de 1 año
 Ejecutar tras descargar para instalar los npm:
 ```cmd
